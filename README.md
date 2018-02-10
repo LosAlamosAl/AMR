@@ -1,3 +1,3 @@
 ## AMR
 
-Adaptive Mesh Refinement 
+Adaptive Mesh Refinement Code
