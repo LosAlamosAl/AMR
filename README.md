@@ -1,4 +1,3 @@
-AMR
-===
+## AMR
 
 Adaptive Mesh Refinement 
